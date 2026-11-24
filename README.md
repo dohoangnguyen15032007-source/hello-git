@@ -4,4 +4,4 @@ Learning Git basics
 Created for practice
 Author: Hoang
 Date: 2026
-
+Keep going, don't give up
