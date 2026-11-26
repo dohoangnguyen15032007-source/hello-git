@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Alice wrote this
+=======
+Bob wrote this
+>>>>>>> bob
